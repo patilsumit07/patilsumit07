@@ -92,16 +92,13 @@ Git & GitHub     ████░░░░░░  40%
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 My Contributions
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/patilsumit07/cyber-contribution-snake/output/cyber-snake-dark.svg"
-    width="850"
-    alt="Cyber Contribution Snake"
-  />
-</p>
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patilsumit07/patilsumit07/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patilsumit07/patilsumit07/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/patilsumit07/patilsumit07/output/github-snake.svg">
+</picture>
 
 ## 📌 What I'm Working On
 
