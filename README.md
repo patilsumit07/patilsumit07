@@ -106,11 +106,11 @@ Git & GitHub           ████░░░░░░  40%
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patilsumit07/cyber-contribution-snake/output/cyber-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patilsumit07/cyber_contribution_snake/output/cyber-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patilsumit07/cyber-contribution-snake/output/cyber-snake-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patilsumit07/cyber_contribution_snake/output/cyber-snake-light.svg">
 
-  <img src="https://raw.githubusercontent.com/patilsumit07/cyber-contribution-snake/output/cyber-snake-light.svg" width="850" alt="Sumit's Cyber Contribution Snake">
+  <img src="https://raw.githubusercontent.com/patilsumit07/cyber_contribution_snake/output/cyber-snake-light.svg" width="850" alt="Sumit's Cyber Contribution Snake">
 
 </picture>
 
