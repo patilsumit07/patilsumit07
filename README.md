@@ -96,7 +96,7 @@ Git & GitHub     ████░░░░░░  40%
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/patilsumit07/cyber-contribution-snake/output/snake.svg" width="850" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/patilsumit07/cyber-contribution-snake/output/snake.yml" width="850" alt="GitHub Contribution Snake"/>
 
 </div>
 
