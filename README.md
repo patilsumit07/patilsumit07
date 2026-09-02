@@ -55,31 +55,6 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 ---
 
-## 🚀 Featured Projects
-
-### 🐍 Cyber Contribution Snake
-A cyber-themed GitHub contribution snake that automatically generates contribution animations in both dark and light modes.
-
-🔗 [View Project](https://github.com/Ayushk373/cyber-contribution-snake)
-
-**Tech:** GitHub Actions • SVG • YAML
-
----
-
-### 🎓 Student Management System
-A simple student management system created to practice programming fundamentals and data management.
-
-🔗 [View Project](https://github.com/Ayushk373/student-management-system)
-
-**Tech:** c++
-
----
-
-### 📚 DSA Practice
-My journey of learning Data Structures & Algorithms with C++, including implementations and problem-solving practice.
-
-🔗 [View Repository](https://github.com/Ayushk373/DSA-REPO)
-
 **Tech:** C++  • DSA
 
 
