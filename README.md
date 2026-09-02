@@ -72,7 +72,7 @@ Learn → Practice → Build → Fail → Improve → Repeat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushk373&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=patilsumit07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 
 </div>
 
