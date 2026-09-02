@@ -68,16 +68,6 @@ Learn → Practice → Build → Fail → Improve → Repeat
 </p>
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=patilsumit07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
-
----
-
 # 🎯 2026 Mission
 
 ```text
