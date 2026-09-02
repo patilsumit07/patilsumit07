@@ -106,13 +106,13 @@ Git & GitHub     ████░░░░░░  40%
 ┌──────────────────────────────────────────────┐
 │              CURRENT FOCUS                   │
 ├──────────────────────────────────────────────┤
-│  🔹 C++ Programming                         │
+│  🔹 C++ Programming                          │
 │  🔹 Data Structures & Algorithms             │
 │  🔹 Object-Oriented Programming              │
 │  🔹 Python Programming                       │
 │  🔹 Problem Solving                          │
 │  🔹 Real-World Projects                      │
-│  🔹 Git & GitHub                              │
+│  🔹 Git & GitHub                             │
 └──────────────────────────────────────────────┘
 ```
 
