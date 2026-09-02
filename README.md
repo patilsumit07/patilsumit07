@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=patilsumit07&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ayush+Khude+%F0%9F%91%8B;Engineering+Student+%F0%9F%8E%93;C%2B%2B+%7C+DSA+%7C+Python;Building+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sumit+Patil+%F0%9F%91%8B;Engineering+Student+%F0%9F%8E%93;C%2B%2B+%7C+DSA+%7C+Python;Building+Projects+%F0%9F%9A%80;Learning+Something+New+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 </div>
 
