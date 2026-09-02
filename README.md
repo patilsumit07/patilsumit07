@@ -102,9 +102,9 @@ Git & GitHub           ████░░░░░░  40%
 ### ⚡ Turn your GitHub contributions into a neon cyber animation.
 
 <p>
-  <img src="https://img.shields.io/github/stars/patilsumit07/cyber-contribution-snake?style=for-the-badge&logo=github&label=STARS">
-  <img src="https://img.shields.io/github/forks/patilsumit07/cyber-contribution-snake?style=for-the-badge&logo=github&label=FORKS">
-  <img src="https://img.shields.io/github/license/patilsumit07/cyber-contribution-snake?style=for-the-badge&label=LICENSE">
+  <img src="https://img.shields.io/github/stars/snake.yml/cyber-contribution-snake?style=for-the-badge&logo=github&label=STARS">
+  <img src="https://img.shields.io/github/forks/snake.yml/cyber-contribution-snake?style=for-the-badge&logo=github&label=FORKS">
+  <img src="https://img.shields.io/github/license/sanke.yml/cyber-contribution-snake?style=for-the-badge&label=LICENSE">
 </p>
 
 <p>
