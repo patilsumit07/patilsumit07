@@ -39,7 +39,7 @@ I'm **Sumit Patil**, an engineering student passionate about software developmen
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,latex" />
 </p>
 
 | 💡 Area | 🎯 Focus |
